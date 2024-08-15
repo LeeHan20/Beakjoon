@@ -12,7 +12,7 @@ void calculate_weights(const vector<string>& alphas, unordered_map<char, int>& w
         unsigned long int length = word.length();
         for (int i = 0; i < length; ++i) {
             weights[word[i]] += pow(10, length - i - 1);
-            //pow(<#double#>, <#double#>)함수
+            //pow(<double>, <double>)함수
             //첫 번째 인자 = n, 두 번째 인자 = m이라고 하면
             //n**m을 리턴함
             //파이썬이면 **, **(1/2) c++이면 pow, sqrt
