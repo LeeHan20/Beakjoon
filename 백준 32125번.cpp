@@ -1,5 +1,4 @@
-8/29 깃허브 코드
-
+// 8/29 깃허브 코드
 
 #include <iostream>
 #include <vector>
