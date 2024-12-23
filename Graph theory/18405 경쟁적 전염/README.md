@@ -16,14 +16,17 @@ NxN 크기의 시험관이 있다. 시험관은 1x1 크기의 칸으로 나누�
 
 예를 들어 다음과 같이 3x3 크기의 시험관이 있다고 하자. 서로 다른 1번, 2번, 3번 바이러스가 각각 (1,1), (1,3), (3,1)에 위치해 있다. 이 때 2초가 지난 뒤에 (3,2)에 존재하는 바이러스의 종류를 계산해보자.
 
+![image](https://github.com/user-attachments/assets/979dc19f-ccbc-48c8-84d5-096bcd2f14dc)
 
 
 1초가 지난 후에 시험관의 상태는 다음과 같다.
 
+![image](https://github.com/user-attachments/assets/1852da1a-3d04-4b00-908a-33d8e50454d0)
 
 
 2초가 지난 후에 시험관의 상태는 다음과 같다.
 
+![image](https://github.com/user-attachments/assets/65ed7f3d-bd69-4fa0-9aa0-50cf92fee0b8)
 
 
 결과적으로 2초가 지난 뒤에 (3,2)에 존재하는 바이러스의 종류는 3번 바이러스다. 따라서 3을 출력하면 정답이다.
