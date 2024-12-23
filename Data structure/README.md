@@ -14,7 +14,7 @@
 - #include "deque"
 - 앞뒤로 모두 pop과 push가 가능함
 - vector에서 기능을 더 넣은 것이라고 생각하면 편함
-- sort도 가능하다
+- reverse, sort, []참조가 가능함
 - 문자열 커서에 쓰이는 것 외에는 잘 안 쓰임
 
 ## 트리 (tree)
