@@ -1,3 +1,3 @@
 # Beakjoon
 
-### 알고리즘 분류에 따른 문제와 풀이
+### Problems and Solutions according to Algorithm Classification
