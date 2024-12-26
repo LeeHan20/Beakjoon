@@ -1,4 +1,4 @@
-# Secret Sharing / Pletinium 3
+# Secret Sharing / Platinum 3
  
 ## 시간 제한,	메모리 제한	
 2 초,	128 MB	
