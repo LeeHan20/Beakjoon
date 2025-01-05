@@ -15,3 +15,11 @@
 - 2차원 백터로 구현
 - bfs와 dfs를 이용하여 탐색
 - visited를 사용하거나 map을 직접 수정함
+
+## 다익스트라 
+
+![image](https://github.com/user-attachments/assets/07f8b2cc-b7f2-40e5-bce0-beff0f9e5b99)
+
+- priority queue를 이용하여 구현
+- 가중치가 있는 그래프에서 최단 경로를 보장함
+- previous vector를 사용하거나 dp table을 이용해 경로를 추적할 수 있음
