@@ -23,6 +23,7 @@
 
 ## 우선순위 큐 (priority_queue)
 - #include "queue"
+- queue 헤더에 포함되어 있음
 - 큐와 같이 push와 pop만 가능하지만 우선순위가 가장 높은 것이 front에 옴
 - struct에서 맴버를 정의하고 operator를 정의하여 정렬 순위를 정해야 함
 - heap 구조로 되어 있어 굉장히 빠르게 수행할 수 있음
