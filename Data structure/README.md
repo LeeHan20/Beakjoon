@@ -22,7 +22,7 @@
 - 주로 이진 트리가 자주 보이는데 할 때마다 머리아픔
 
 ## 우선순위 큐 (priority_queue)
-- #include "priority_queue"
+- #include "queue"
 - 큐와 같이 push와 pop만 가능하지만 우선순위가 가장 높은 것이 front에 옴
 - struct에서 맴버를 정의하고 operator를 정의하여 정렬 순위를 정해야 함
 - heap 구조로 되어 있어 굉장히 빠르게 수행할 수 있음
