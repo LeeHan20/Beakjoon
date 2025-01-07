@@ -10,4 +10,12 @@
 ![image](https://github.com/user-attachments/assets/c2664db9-35a4-45ed-962b-05c319684644)
 
 - 이전의 결과를 가지고 다음 결과를 저장하는 것
-- 쿼리가 많을 때 효과적이다
+- 점화식이 기본 원리
+- 쿼리가 많을 때 효과적
+
+## 슬라이딩 윈도우
+
+![image](https://github.com/user-attachments/assets/af28f3ce-6269-43b2-a0fa-9d3dbab93c4d)
+- 기본적으로 1차원 백터에서 탐색할 경우 해당 범위 내에서의 값을 수행함
+- 범위는 deque로 구현하는 것이 일반적
+- for문 내의 변수로 범위를 조정함
