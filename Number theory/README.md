@@ -17,5 +17,5 @@
 
 ![image](https://github.com/user-attachments/assets/af28f3ce-6269-43b2-a0fa-9d3dbab93c4d)
 - 기본적으로 1차원 백터에서 탐색할 경우 해당 범위 내에서의 값을 수행함
-- 범위는 deque로 구현하는 것이 일반적
+- 범위는 index를 넣은 deque으로 구현하는 것이 일반적
 - for문 내의 변수로 범위를 조정함
