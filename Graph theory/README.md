@@ -16,7 +16,7 @@
 - bfs와 dfs를 이용하여 탐색
 - visited를 사용하거나 map을 직접 수정함
 
-## 다익스트라 
+## Dijkstra
 
 ![image](https://github.com/user-attachments/assets/07f8b2cc-b7f2-40e5-bce0-beff0f9e5b99)
 
