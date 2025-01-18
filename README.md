@@ -1,12 +1,13 @@
 # Beakjoon
 
-### Problems and Solutions according to Algorithm Classification
+Problems and Solutions according to Algorithm Classification
 
 
 
 ## solved.ac의 랭킹에 영향을 주는 변수
 
 ![image](https://github.com/user-attachments/assets/3db26cda-c9e9-4a76-ad01-169a8b318111)
+
 ### 푼 문제 수 
 ⌊175×(1−0.995 **
 해결한 문제 수
