@@ -1,6 +1,6 @@
 # 그래프 이론
 
-## 무방향 그래프
+## 무방향 그래프 (non-directed)
 
 ![image](https://github.com/user-attachments/assets/71303f02-7879-44c6-92cb-3ea026addb0c)
 
