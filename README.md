@@ -36,6 +36,6 @@ Problems and Solutions according to Algorithm Classification
  ### 상위 100문제의 난이도 합
  결국 메인이 되는 변수
 
- 그래프에 약간의 오류가 있는데 그걸 무시하고도 선형함수에 가까운 모습이다
+ 그래프에 약간의 오류가 있는데 그걸 무시하고도 선형에 가까운 모습이다
 
 
