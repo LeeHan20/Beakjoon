@@ -4,7 +4,7 @@ Problems and Solutions according to Algorithm Classification
 
 
 
-## solved.ac의 랭킹에 영향을 주는 변수
+## solved.ac의 랭킹에 영향을 주는 변수 분석
 
 ![image](https://github.com/user-attachments/assets/3db26cda-c9e9-4a76-ad01-169a8b318111)
 
