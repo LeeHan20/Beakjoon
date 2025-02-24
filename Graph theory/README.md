@@ -23,3 +23,9 @@
 - priority queue를 이용하여 구현
 - 가중치가 있는 그래프에서 최단 경로를 보장함
 - previous vector를 사용하거나 dp table을 이용해 경로를 추적할 수 있음
+
+## Topological Sorting (위상정렬)
+
+- non-cycle, directed gragh에서 edge의 연결에 따라 일렬로 정렬하는 것
+- indegree(들어오는 간선의 수)를 관리하며 정렬시킬 수 있음
+- 임계 간선은 dist[u] + cost[u, v] = dist[v]를 만족시키는 간선인데 이것으로 리버스 그래프를 통해 경로를 추적할 수 있음
