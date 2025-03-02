@@ -1,0 +1,13 @@
+1. cmp 정렬기준 -> dist - value
+- 중복 식사 이슈 -> 문제 x
+- 가중치 음수화 -> 문제 x
+- 최단경로 보장
+
+2. dist는 식전 / 식후로 나눠야 함
+- 식후 : just 기록
+- 식전 : 다음 노드 준비 -> distance 최소 or value 최대 (정렬 기준에 따라 value는 고려 x)
+
+3. pq에는 무엇이 들어가야 하는가?
+- 단순 distance 비교열위
+- distance - value 비교열위
+-> pq 메모리 이슈? -> 쩔수없음
