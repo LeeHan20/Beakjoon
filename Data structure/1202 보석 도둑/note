@@ -1,5 +1,5 @@
 1. bags or jewels one of them should be managed as two pq
--> rest one only need one pq
+-> rest one only need only one pq
 - hardness of implementation : high
 
 2. manage jewels with pq, bags with mutiset
