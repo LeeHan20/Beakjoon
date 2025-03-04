@@ -1,0 +1,10 @@
+1. bags or jewels one of them should be managed as two pq
+-> rest one only need one pq
+- hardness of implementation : high
+
+2. manage jewels with pq, bags with mutiset
+-> component of bags should be ereased -> O(logn)
+- overall time complexity is n^2
+- so, using bianary search is needed
+- find component in mutiset with lower_bound -> O(logn)
+- then, overall time complexity is nlogn -> ac
