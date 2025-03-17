@@ -1,4 +1,4 @@
-# 저택 / Pletinum 4
+# 저택 / Platinum 4
  
 ## 시간 제한	메모리 제한
 1 초	256 MB	
