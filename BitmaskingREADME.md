@@ -1,3 +1,3 @@
-# bit masking
+# Bitmasking
 
 여러 가지의 상태가 있을 때 그것을 배열이 아닌 하나의 int로 저장할 수 있음
