@@ -43,4 +43,13 @@ main variable
 
 its close to linear
 
+## useful sites
+
+gragh
+
+https://csacademy.com/app/graph_editor/
+
+counter example
+ 
+https://testcase.ac/
 
