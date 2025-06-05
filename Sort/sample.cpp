@@ -11,3 +11,11 @@ bool compare(const string &a, const string &b) {
         return a.size() < b.size();
     }
 }
+
+struct ComparePair {
+    bool operator()(const std::pair<int,int>& a,
+                    const std::pair<int,int>& b) const {
+
+        return a.first > b.first;
+    }
+};
