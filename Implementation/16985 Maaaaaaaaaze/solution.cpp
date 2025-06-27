@@ -64,6 +64,8 @@ int bfs() {
         tie(x, y, z, depth) = q.front();
         q.pop();
         
+        if (depth >= min_path) continue;
+        
         if (x == n - 1 && y == n - 1 && z == n - 1) return depth;
         
         for (int i = 0; i < 6; ++i) {
@@ -88,6 +90,8 @@ void claculate_cases() {
     for (int r2 = 0; r2 < 4; ++r2)
     for (int r3 = 0; r3 < 4; ++r3)
     for (int r4 = 0; r4 < 4; ++r4) {
+        if (min_path == 12) return;
+        
         vector<int> rotation_command = {r0, r1, r2, r3, r4};
         vector<int> perm = {0, 1, 2, 3, 4};
         do {
@@ -135,5 +139,6 @@ int main() {
     
     return 0;
 }
+
 
 
