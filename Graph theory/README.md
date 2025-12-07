@@ -30,7 +30,7 @@
 - indegree(들어오는 간선의 수)를 관리하며 정렬시킬 수 있음
 - 임계 간선은 dist[u] + cost[u, v] = dist[v]를 만족시키는 간선인데 이것으로 리버스 그래프를 통해 경로를 추적할 수 있음
 
-## Max Flow (최대 유량)
+## Network Flow 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/e3f98ff4-d7dd-485a-bac8-2e07956812bc" />
 
 - ![내용정리](https://github.com/LeeHan20/univ_studying/edit/main/sophomore%20autumn%20semester/algorithm/week%2014%20%3A%20%EA%B0%9C%EB%85%90)
