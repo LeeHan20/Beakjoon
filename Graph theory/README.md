@@ -1,4 +1,4 @@
-# 그래프 이론
+# Graph Theory
 
 ## 무방향 그래프 (non-directed)
 
